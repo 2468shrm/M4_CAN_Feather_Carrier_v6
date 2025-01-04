@@ -557,7 +557,7 @@
       "pos_files": "",
       "specctra_dsn": "",
       "step": "STEP/M4_CAN_Feather_Carrier_v2.step",
-      "svg": "",
+      "svg": "SVGs/",
       "vrml": ""
     },
     "page_layout_descr_file": ""
